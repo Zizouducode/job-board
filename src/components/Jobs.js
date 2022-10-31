@@ -8,63 +8,63 @@ const Jobs = () => {
         contractType={"CDI"}
         country={"Australia"}
         city={"Sydney"}
-        className={"job-red"}
+        className={"job-border-red job"}
       />
       <Job
         title={"Agent de Sécurité - Pantin"}
         contractType={"CDI"}
         country={"France"}
         city={"Paris"}
-        className={"job-green"}
+        className={"job-border-green job"}
       />
       <Job
         title={"Responsable d'Atelier (H/F)"}
         contractType={"CDI"}
         country={"France"}
         city={"Paris"}
-        className={"job-yellow"}
+        className={"job-border-yellow job"}
       />
       <Job
         title={"Chef de Projets"}
         contractType={"CDI"}
         country={"France"}
         city={"Paris"}
-        className={"job-blue"}
+        className={"job-border-blue job"}
       />
       <Job
         title={"Développeur React.js"}
         contractType={"CDI"}
         country={"France"}
         city={"Paris"}
-        className={"job-salmon"}
+        className={"job-border-salmon job"}
       />
       <Job
         title={"Sales Associate Stockholm"}
         contractType={"CDI"}
         country={"Suède"}
         city={"Stockholm"}
-        className={"job-red"}
+        className={"job-border-red job"}
       />
       <Job
         title={"Vendeur/se - Crans Montana"}
         contractType={"CDI"}
         country={"Suisse"}
         city={"Crans-Montana"}
-        className={"job-green"}
+        className={"job-border-green job"}
       />
       <Job
         title={"CRM & Data Quality Analyst"}
         contractType={"CDI"}
         country={"USA"}
         city={"New-York"}
-        className={"job-yellow"}
+        className={"job-border-yellow job"}
       />
       <Job
         title={"Infirmier (H/F)"}
         contractType={"CDI"}
         country={"France"}
         city={"Pantin"}
-        className={"job-blue"}
+        className={"job-border-blue job"}
       />
     </div>
   );
